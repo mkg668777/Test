@@ -1,0 +1,7 @@
+The following equipments are used int the Cricket
+1 bat
+2 ball
+3 helmet
+4 pads
+5 wicket
+5 l gaurd
