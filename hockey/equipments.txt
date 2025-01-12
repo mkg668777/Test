@@ -1,0 +1,7 @@
+The following equipments are used in the Hockey
+1 hockey
+2 ball
+3 net
+4 helmet
+5 pads
+
